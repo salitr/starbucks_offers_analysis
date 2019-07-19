@@ -49,7 +49,7 @@ If so, Do male customers react the same as female customers do for any of the tw
 
 ## Results
 My post in Medium shows the main findings of the analysis.
-  * [**Starbucks: Analyze-a-Coffee**](https://medium.com/@salitr/boston-airbnb-analysis-f46bcda1713a)
+  * [**Starbucks: Analyze-a-Coffee**](https://towardsdatascience.com/starbucks-analyze-a-coffee-b4eef811aa4a)
 
 A summary of the findings:
 1. Eight offer (4 BOGO and 4 Discounts) were sent to 14,825 customers who made 26,226 transactions while completing at least one offer.
